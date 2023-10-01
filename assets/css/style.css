@@ -45,8 +45,7 @@ ul {
 
 #optimization, #management, #marketing {
     display: inline-block;
-    margin-left: 25px;
-    
+    margin-left: 25px; 
 }
 
 
@@ -95,17 +94,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
