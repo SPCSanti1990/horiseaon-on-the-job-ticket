@@ -5,6 +5,7 @@
     margin: 0;
 }
 
+/* Element Selectors */
 /* Applies to elements in the body */
 body {
     background-color: #d9dcd6;
@@ -44,6 +45,7 @@ p {
     font-size: 16px;
 }
 
+/* Class Selectors */
 /* Applies to header class */
 .header {
     padding: 20px;
